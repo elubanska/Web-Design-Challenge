@@ -23,18 +23,47 @@ h5 {
   color: black;
 }
 
-img {
-
-}
-
-section {
-  background-color: #000;
-}
-
 p {
   font-size: 15px;
   color: gray;
 }
 
-ul {
+.container {
+  background-color: white;
+  width: 100%;
+  opacity: 1;
+  margin-top: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+}
+.row {
+  margin-right: -20px;
+  margin-left: -20px;
+}
+
+.nav-item{
+  align-items: flex-end;
+}
+.nav-item:hover{
+  background-color: teal;
+}
+.dropdown-item:hover{
+  background-color: teal;
+}
+.navbar .navbar-brand{
+  text-emphasis-color: white;
+  color: white;
+  margin-left: 35px;
+  padding: inherit;
+  font-weight: bold;
+  background-color: teal;
+}
+footer {
+  text-align: left;
+  padding: 3px;
+  background-color: rgb(212, 209, 209);
+  color: teal;
 }
