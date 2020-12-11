@@ -1,0 +1,40 @@
+body {
+  background-color: #dbe5e6;
+}
+
+
+h1 {
+  text-align: center;
+  background-color: grey;
+  color:  rgb(4, 160, 144);
+}
+
+h2 {
+  color:  rgb(4, 160, 144);
+}
+
+h3 {
+  color:  rgb(4, 160, 144);
+}
+h4 {
+  color: rgb(4, 160, 144);
+}
+h5 {
+  color: black;
+}
+
+img {
+
+}
+
+section {
+  background-color: #000;
+}
+
+p {
+  font-size: 15px;
+  color: gray;
+}
+
+ul {
+}
