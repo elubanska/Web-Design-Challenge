@@ -1,7 +1,6 @@
 body {
-  background-color: #dbe5e6;
+  background-color: grey;
 }
-
 
 h1 {
   text-align: center;
@@ -29,21 +28,20 @@ p {
 }
 
 .container {
-  background-color: white;
-  width: 100%;
+  background-color:white;
   opacity: 1;
   margin-top: 15px;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
   margin-bottom: 50px;
 }
-.row {
-  margin-right: -20px;
-  margin-left: -20px;
+row {
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
+.box{
+  padding: 10px 10px;
+  background-color: white;
+}
 .nav-item{
   align-items: flex-end;
 }
@@ -52,6 +50,7 @@ p {
 }
 .dropdown-item:hover{
   background-color: teal;
+}
 }
 .navbar .navbar-brand{
   text-emphasis-color: white;
