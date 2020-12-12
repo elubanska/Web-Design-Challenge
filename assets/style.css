@@ -30,12 +30,12 @@ p {
 }
 
 .container {
-  background-color:white;
+  background-color:rgb(215, 243, 234);
   opacity: 1;
   margin-top: 15px;
   margin-bottom: 50px;
 }
-row {
+.row {
   margin-right: 0px;
   margin-left: 0px;
 }
@@ -71,3 +71,7 @@ footer {
 .left {
   float: left;
   padding: 0 10px 0 0;}
+
+.card{
+  background-color: white;
+}
