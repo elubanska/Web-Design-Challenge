@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background-color: white;
 }
 
 h1 {
@@ -68,3 +68,6 @@ footer {
   background-color: rgb(212, 209, 209);
   color: teal;
 }
+.left {
+  float: left;
+  padding: 0 10px 0 0;}
