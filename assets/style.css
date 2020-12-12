@@ -52,10 +52,10 @@ row {
   background-color: teal;
 }
 }
-.navbar .navbar-brand{
+.navbar {
   text-emphasis-color: white;
   color: white;
-  margin-left: 35px;
+  margin-left: 10px;
   padding: inherit;
   font-weight: bold;
   background-color: teal;
